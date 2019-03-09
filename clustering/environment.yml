@@ -1,0 +1,16 @@
+name: gda-clustering
+
+channels:
+  - conda-forge
+  
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - fiona
+    - scipy
+    - scikit-learn
+    - matplotlib
+    - ipywidgets
+
+
