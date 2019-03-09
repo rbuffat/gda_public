@@ -1,4 +1,4 @@
-name: gda-clustering
+name: gda
 
 channels:
   - conda-forge
@@ -12,5 +12,6 @@ dependencies:
     - scikit-learn
     - matplotlib
     - ipywidgets
+    - jupyter_contrib_nbextensions
 
 
