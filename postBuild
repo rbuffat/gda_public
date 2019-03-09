@@ -4,5 +4,5 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-jupyter trust dbscan.ipynb
-jupyter trust kmeans.ipynb
+jupyter trust clustering/dbscan.ipynb
+jupyter trust clustering/kmeans.ipynb
