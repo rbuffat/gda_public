@@ -1,6 +1,7 @@
 numpy
 fiona
 scipy
+shapely
 scikit-learn
 matplotlib
 ipywidgets
