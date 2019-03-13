@@ -6,4 +6,5 @@ scikit-learn
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
+networkx
 
