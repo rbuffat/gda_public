@@ -1,4 +1,4 @@
-numpy==1.18.1
+numpy==1.22.0
 fiona==1.8.13.post1
 scipy==1.4.1
 shapely==1.7.0
