@@ -1,6 +1,6 @@
 numpy==1.18.1
 fiona==1.8.13.post1
-scipy==1.4.1
+scipy==1.10.0
 shapely==1.7.0
 scikit-learn==0.22.2.post1
 matplotlib==3.2.0
